@@ -111,6 +111,7 @@ userText.innerText = "Creation of";
 userText.style.color = "hsl(215, 51%, 70%)";
 userText.style.textAlign = "center";
 
+
 let userName = document.createElement("span");
 userName.className = "userName";
 userName.innerText = " Jules Wyvern";
